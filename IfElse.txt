@@ -11,10 +11,10 @@ public class IfElse {
 		
 		if(age > 18)
 		{
-			System.out.println("adult");
+			System.out.println("is an adult");
 		}
 		else {
-				System.out.println("not adult");
+				System.out.println("is not an adult");
 			}
 		}
 		
