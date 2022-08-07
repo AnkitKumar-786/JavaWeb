@@ -1,0 +1,34 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ô“¶ÿÿÿÿÿ8ëßºøÎ/H×RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(óÎğ‹ıÿÿÿÿ8ëßºøÎ/HØRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶§ƒ±ùÿÿÿÿ8ëßºøÎ/HÙRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(úß£Úúÿÿÿÿ8ëßºøÎ/HÚRMAJORZ
+CODE_SMELL
+Ysquid:S1872"'Use an "instanceof" comparison instead.(µøæ„øÿÿÿÿ8á ÄøÎ/HÛRMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚÕ³²ùÿÿÿÿ8ëßºøÎ/HÜRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïíşúÿÿÿÿ8ëßºøÎ/HİRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HŞRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(³Šœ£8ëßºøÎ/HßRMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(™Ù¯š8ëßºøÎ/HàRMAJORZ
+CODE_SMELL
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ø®³æ8ëßºøÎ/HáRMAJORZ
+CODE_SMELL
+Ysquid:S1872!"'Use an "instanceof" comparison instead.(Íâç¹ùÿÿÿÿ8á ÄøÎ/HâRMAJORZBUG
+Tsquid:S1872"'Use an "instanceof" comparison instead.(Ñ‡Š¾8á ÄøÎ/HãRMAJORZBUG
+qsquid:S2259"?A "NullPointerException" could be thrown; "c" is nullable here.(¶§ƒ±ùÿÿÿÿ8ëßºøÎ/HäRMAJORZBUG

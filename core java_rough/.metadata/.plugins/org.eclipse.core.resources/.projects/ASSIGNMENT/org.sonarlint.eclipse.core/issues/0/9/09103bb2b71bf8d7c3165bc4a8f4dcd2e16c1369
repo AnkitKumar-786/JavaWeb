@@ -1,0 +1,128 @@
+
+q
+squid:S106y"9Replace this use of System.out or System.err by a logger.(¤î‡ÿÿÿÿÿ8²¯£´Ì/HøRMAJORZ
+CODE_SMELL
+–squid:S1157F"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(—÷€8²¯£´Ì/HùRMINORZ
+CODE_SMELL
+r
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(É€ÿÿÿÿÿ8²¯£´Ì/HúRMAJORZ
+CODE_SMELL
+¡ squid:ForLoopCounterChangedCheckg"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ç·ğ‚8²¯£´Ì/HûRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(°â³Ñ8²¯£´Ì/HüRMAJORZ
+CODE_SMELL
+m
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(İªŒ¤8²¯£´Ì/HıRMAJORZ
+CODE_SMELL
+l
+squid:S106G"9Replace this use of System.out or System.err by a logger.(‚æï¢8²¯£´Ì/HşRMAJORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(‰ô“¶ÿÿÿÿÿ8²¯£´Ì/HÿRMAJORZ
+CODE_SMELL
+q
+squid:S106M"9Replace this use of System.out or System.err by a logger.(¥ö‡ûùÿÿÿÿ8²¯£´Ì/H€RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(À–ÛØúÿÿÿÿ8²¯£´Ì/HRMAJORZ
+CODE_SMELL
+q
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ÇÀšˆüÿÿÿÿ8²¯£´Ì/H‚RMAJORZ
+CODE_SMELL
+l
+squid:S1068"9Replace this use of System.out or System.err by a logger.(§Œã±8²¯£´Ì/HƒRMAJORZ
+CODE_SMELL
+[squid:S1659""Declare "runs" on a separate line.(Œ×”˜şÿÿÿÿ8²¯£´Ì/H„RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ô“¶ÿÿÿÿÿ8²¯£´Ì/H…RMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ô¿Çê8²¯£´Ì/H†RMAJORZ
+CODE_SMELL
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ãÎè¸ÿÿÿÿÿ8²¯£´Ì/H‡RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HˆRMINORZ
+CODE_SMELL
+m
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(€‡Ú‡8²¯£´Ì/H‰RMAJORZ
+CODE_SMELL
+–squid:S1157B"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ûŞ¥18²¯£´Ì/HŠRMINORZ
+CODE_SMELL
+q
+squid:S106t"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8²¯£´Ì/H‹RMAJORZ
+CODE_SMELL
+l
+squid:S106k"9Replace this use of System.out or System.err by a logger.(®Æ‹¢8²¯£´Ì/HŒRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8²¯£´Ì/HRMAJORZ
+CODE_SMELL
+—squid:S1157J"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Êˆ‘á8²¯£´Ì/HRMINORZ
+CODE_SMELL
+k
+squid:S106I"9Replace this use of System.out or System.err by a logger.(Ãí…!8²¯£´Ì/HRMAJORZ
+CODE_SMELL
+l
+squid:S106E"9Replace this use of System.out or System.err by a logger.(Ã‚Ç—8²¯£´Ì/HRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8²¯£´Ì/H‘RMAJORZ
+CODE_SMELL
+–squid:S1157^"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(–¥48²¯£´Ì/H’RMINORZ
+CODE_SMELL
+m
+squid:S106’"9Replace this use of System.out or System.err by a logger.(Ãûç‡8²¯£´Ì/H“RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü‹Ø÷üÿÿÿÿ8²¯£´Ì/H”RMAJORZ
+CODE_SMELL
+r
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ãÎè¸ÿÿÿÿÿ8²¯£´Ì/H•RMAJORZ
+CODE_SMELL
+m
+squid:S106­"9Replace this use of System.out or System.err by a logger.(¬˜Ş¹8²¯£´Ì/H–RMAJORZ
+CODE_SMELL
+k
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ùo8²¯£´Ì/H—RMAJORZ
+CODE_SMELL
+œsquid:S11570"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ü¿¬¢ÿÿÿÿÿ8²¯£´Ì/H˜RMINORZ
+CODE_SMELL
+q
+squid:S106C"9Replace this use of System.out or System.err by a logger.(÷èÅ×şÿÿÿÿ8²¯£´Ì/H™RMAJORZ
+CODE_SMELL
+q
+squid:S106W"9Replace this use of System.out or System.err by a logger.(™ôß¬ÿÿÿÿÿ8²¯£´Ì/HšRMAJORZ
+CODE_SMELL
+r
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(±åÒÓşÿÿÿÿ8²¯£´Ì/H›RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë÷‹Ûÿÿÿÿÿ8²¯£´Ì/HœRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(×§˜–ùÿÿÿÿ8²¯£´Ì/HRMAJORZ
+CODE_SMELL
+q
+squid:S106$"9Replace this use of System.out or System.err by a logger.(À–ÛØúÿÿÿÿ8²¯£´Ì/HRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(ïæãûÿÿÿÿ8²¯£´Ì/HŸRMAJORZ
+CODE_SMELL
+csquid:S1172"*Remove this unused method parameter "num".(úÔƒ°ùÿÿÿÿ8²¯£´Ì/H RMAJORZ
+CODE_SMELL
+l
+squid:S106}"9Replace this use of System.out or System.err by a logger.(ô¿Çê8²¯£´Ì/H¡RMAJORZ
+CODE_SMELL
+r
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(¾ĞÔòûÿÿÿÿ8²¯£´Ì/H¢RMAJORZ
+CODE_SMELL
+—squid:S1157@"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ó©Û¬8²¯£´Ì/H£RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÕ¤p8²¯£´Ì/H¤RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8²¯£´Ì/H¥RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8²¯£´Ì/H¦RMAJORZ
+CODE_SMELL

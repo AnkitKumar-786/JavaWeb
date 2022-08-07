@@ -1,0 +1,48 @@
+
+Gsquid:S1220""Move this file to a named package.HØ	RMINORZ
+CODE_SMELL
+„squid:S2095X"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8Ò©¥Ò/HÜ	RBLOCKERZBUG
+€squid:S2095@"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÏƒÖÿÿÿÿÿ8Ò©¥Ò/Hİ	RBLOCKERZBUG
+[squid:S1659""Declare "name" on a separate line.(ÖÍ¢ûÿÿÿÿ8Ò©¥Ò/HŞ	RMINORZ
+CODE_SMELL
+]squid:S1659"$Declare "result" on a separate line.(ÖÍ¢ûÿÿÿÿ8Ò©¥Ò/Hß	RMINORZ
+CODE_SMELL
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¥Àã¨ùÿÿÿÿ8Ò©¥Ò/Hà	RMAJORZ
+CODE_SMELL
+k
+squid:S106("9Replace this use of System.out or System.err by a logger.(€ÍÀ 8Ò©¥Ò/Há	RMAJORZ
+CODE_SMELL
+l
+squid:S106."9Replace this use of System.out or System.err by a logger.(ô™öİ8Ò©¥Ò/Hâ	RMAJORZ
+CODE_SMELL
+l
+squid:S106/"9Replace this use of System.out or System.err by a logger.(óëıÊ8Ò©¥Ò/Hã	RMAJORZ
+CODE_SMELL
+q
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¨ç˜ÿÿÿÿÿ8Ò©¥Ò/Hä	RMAJORZ
+CODE_SMELL
+q
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ğİâÉşÿÿÿÿ8Ò©¥Ò/Hå	RMAJORZ
+CODE_SMELL
+l
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ùõÙ¡8Ò©¥Ò/Hæ	RMAJORZ
+CODE_SMELL
+q
+squid:S106="9Replace this use of System.out or System.err by a logger.(£…Ô›ûÿÿÿÿ8Ò©¥Ò/Hç	RMAJORZ
+CODE_SMELL
+~squid:S2677B"LUse or store the value returned from "readLine" instead of throwing it away.(×–¸¦øÿÿÿÿ8Ò©¥Ò/Hè	RMAJORZBUG
+l
+squid:S106J"9Replace this use of System.out or System.err by a logger.(™ÜßÏ8Ò©¥Ò/Hé	RMAJORZ
+CODE_SMELL
+q
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(Ä†±Âúÿÿÿÿ8Ò©¥Ò/Hê	RMAJORZ
+CODE_SMELL
+ssquid:S2118Y"AMake the "java.util.List" class "Serializable" or don't write it.(Äİ©”úÿÿÿÿ8Ò©¥Ò/Hë	RMAJORZBUG
+l
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(Êµ‹‹8Ò©¥Ò/Hì	RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ı«ã¾8Ò©¥Ò/Hí	RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(Ñã´—8Ò©¥Ò/Hî	RMAJORZ
+CODE_SMELL

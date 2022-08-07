@@ -1,0 +1,33 @@
+
+|squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(„û¶ëûÿÿÿÿ8ùã°¡Ò/HÛ
+RBLOCKERZBUG
+Gsquid:S1220""Move this file to a named package.HÜ
+RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÄãö8šæ‘©Ñ/HÝ
+RMAJORZ
+CODE_SMELL
+ƒsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(í˜éÂýÿÿÿÿ8ùã°¡Ò/HÞ
+RBLOCKERZBUG
+„squid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¦áëÇùÿÿÿÿ8ùã°¡Ò/Hß
+RMAJORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¬œ¨“ÿÿÿÿÿ8”ã°©Ñ/Hà
+RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(‡¹¯¯8ùã°¡Ò/Há
+RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„œ8ùã°¡Ò/Hâ
+RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ùã°¡Ò/Hã
+RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(®ê‘Òúÿÿÿÿ8ùã°¡Ò/Hä
+RMAJORZ
+CODE_SMELL
+^squid:S2068" Remove this hard-coded password.(„û¶ëûÿÿÿÿ8šæ‘©Ñ/Hå
+RBLOCKERZVULNERABILITY

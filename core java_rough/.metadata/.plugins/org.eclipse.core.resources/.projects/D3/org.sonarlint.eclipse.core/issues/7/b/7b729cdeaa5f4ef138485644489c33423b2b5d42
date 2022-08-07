@@ -1,0 +1,7 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Λδπώÿÿÿÿ8ηλα/HRMAJORZ
+CODE_SMELL
+]squid:S1989"(Add a "try/catch" block for "getWriter".(οτ†ϊÿÿÿÿH‘RMINORZVULNERABILITY
+lsquid:S1161":Add the "@Override" annotation above this method signature(ƒξΏ¥ωÿÿÿÿH’RMAJORZ
+CODE_SMELL

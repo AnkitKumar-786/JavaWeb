@@ -1,0 +1,85 @@
+
+Gsquid:S1220""Move this file to a named package.Hû	RMINORZ
+CODE_SMELL
+{squid:S2095\"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¬Ã¨ƒ8İ‡İ¥Ò/Hı	RBLOCKERZBUG
+{squid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ö¨¿¼8İ‡İ¥Ò/Hş	RBLOCKERZBUG
+wsquid:S2095#"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(õÈ¥8İ‡İ¥Ò/Hÿ	RBLOCKERZBUG
+€squid:S20959"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(À®²Åıÿÿÿÿ8İ‡İ¥Ò/H€
+RBLOCKERZBUG
+€squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(óÍËüúÿÿÿÿ8İ‡İ¥Ò/H
+RMAJORZ
+CODE_SMELL
+{squid:S00112""FDefine and throw a dedicated exception instead of using a generic one.(‚š™Ğ8İ‡İ¥Ò/H‚
+RMAJORZ
+CODE_SMELL
+\squid:S1125"(Remove the literal "true" boolean value.(ÅÖ‰ï8İ‡İ¥Ò/Hƒ
+RMINORZ
+CODE_SMELL
+q
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¥Àã¨ùÿÿÿÿ8İ‡İ¥Ò/H„
+RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(€ÍÀ 8İ‡İ¥Ò/H…
+RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(§×‚¨8İ‡İ¥Ò/H†
+RMAJORZ
+CODE_SMELL
+~squid:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(óŠëåıÿÿÿÿ8İ‡İ¥Ò/H‡
+RMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(üÓğĞıÿÿÿÿ8İ‡İ¥Ò/Hˆ
+RMAJORZ
+CODE_SMELL
+q
+squid:S106$"9Replace this use of System.out or System.err by a logger.(©Úåûøÿÿÿÿ8İ‡İ¥Ò/H‰
+RMAJORZ
+CODE_SMELL
+l
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Õ«ˆò8İ‡İ¥Ò/HŠ
+RMAJORZ
+CODE_SMELL
+\squid:S1125-"(Remove the literal "true" boolean value.(¡ä®ô8İ‡İ¥Ò/H‹
+RMINORZ
+CODE_SMELL
+}squid:S4042-"IUse "java.nio.Files#delete" here for better messages on error conditions.(¡ä®ô8İ‡İ¥Ò/HŒ
+RMAJORZ
+CODE_SMELL
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(Âšûøÿÿÿÿ8İ‡İ¥Ò/H
+RMAJORZ
+CODE_SMELL
+l
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ğ–ÎÚ8İ‡İ¥Ò/H
+RMAJORZ
+CODE_SMELL
+`squid:S16596"'Declare "wordCount" on a separate line.(Ø—±ïÿÿÿÿÿ8İ‡İ¥Ò/H
+RMINORZ
+CODE_SMELL
+`squid:S16596"'Declare "charCount" on a separate line.(Ø—±ïÿÿÿÿÿ8İ‡İ¥Ò/H
+RMINORZ
+CODE_SMELL
+l
+squid:S106R"9Replace this use of System.out or System.err by a logger.(º±Ò´8İ‡İ¥Ò/H‘
+RMAJORZ
+CODE_SMELL
+k
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ì °,8İ‡İ¥Ò/H’
+RMAJORZ
+CODE_SMELL
+q
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ÄõêÕıÿÿÿÿ8İ‡İ¥Ò/H“
+RMAJORZ
+CODE_SMELL
+l
+squid:S106b"9Replace this use of System.out or System.err by a logger.(Š¡…8İ‡İ¥Ò/H”
+RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(¿„ÅÖÿÿÿÿÿ8İ‡İ¥Ò/H•
+RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(‡§éê8İ‡İ¥Ò/H–
+RMAJORZ
+CODE_SMELL

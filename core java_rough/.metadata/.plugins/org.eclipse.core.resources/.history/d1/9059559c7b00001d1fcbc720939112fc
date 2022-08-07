@@ -1,0 +1,10 @@
+package eb.com;
+
+public class Counterdemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

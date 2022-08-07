@@ -1,0 +1,84 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡Á’üÿÿÿÿÿ8ñ¸‘åÌ/H¼	RMAJORZ
+CODE_SMELL
+q
+squid:S106B"9Replace this use of System.out or System.err by a logger.(¶À¶Áùÿÿÿÿ8ñ¸‘åÌ/H¦	RMAJORZ
+CODE_SMELL
+†squid:S00116Q"QRename this field "Salary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øªšè8ñ¸‘åÌ/H½	RMINORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H¬	RMINORZ
+CODE_SMELL
+l
+squid:S106>"9Replace this use of System.out or System.err by a logger.(†©æö8ñ¸‘åÌ/HÆ	RMAJORZ
+CODE_SMELL
+‰squid:S00116"TRename this field "FirstName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û“ ©8ñ¸‘åÌ/H±	RMINORZ
+CODE_SMELL
+l
+squid:S106l"9Replace this use of System.out or System.err by a logger.(¦ø©8ñ¸‘åÌ/HÊ	RMAJORZ
+CODE_SMELL
+ˆsquid:S00116"SRename this field "LastName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û“ ©8ñ¸‘åÌ/HÂ	RMINORZ
+CODE_SMELL
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(·áƒùÿÿÿÿÿ8ñ¸‘åÌ/H«	RMAJORZ
+CODE_SMELL
+l
+squid:S1068"9Replace this use of System.out or System.err by a logger.(†©æö8ñ¸‘åÌ/H°	RMAJORZ
+CODE_SMELL
+€squid:S11928"IDefine a constant instead of duplicating this literal "Salary: " 4 times.(†©æö8ñ¸‘åÌ/Hª	RCRITICALZ
+CODE_SMELL
+l
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ÉŠ¸ÿ8ñ¸‘åÌ/Hµ	RMAJORZ
+CODE_SMELL
+l
+squid:S106J"9Replace this use of System.out or System.err by a logger.(ÉŠ¸ÿ8ñ¸‘åÌ/H¯	RMAJORZ
+CODE_SMELL
+ƒsquid:S00116"NRename this field "SSN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û“ ©8ñ¸‘åÌ/H¨	RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÊúª8ñ¸‘åÌ/H§	RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿€™­ùÿÿÿÿ8ñ¸‘åÌ/H¥	RMAJORZ
+CODE_SMELL
+l
+squid:S106F"9Replace this use of System.out or System.err by a logger.(‘‘»Ó8ñ¸‘åÌ/H¸	RMAJORZ
+CODE_SMELL
+ˆsquid:S00116R"NRename this field "HRA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÇÊ€şÿÿÿÿ8ñ¸‘åÌ/H£	RMINORZ
+CODE_SMELL
+_squid:S1659R"&Declare "basicPay" on a separate line.(±ÇÊ€şÿÿÿÿ8ñ¸‘åÌ/H®	RMINORZ
+CODE_SMELL
+ƒsquid:S001161"NRename this field "HRA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÉÊ8ñ¸‘åÌ/H´	RMINORZ
+CODE_SMELL
+[squid:S1659"'Declare "FirstName" on a separate line.(û“ ©8ñ¸‘åÌ/H²	RMINORZ
+CODE_SMELL
+l
+squid:S106_"9Replace this use of System.out or System.err by a logger.(†©æö8ñ¸‘åÌ/H³	RMAJORZ
+CODE_SMELL
+l
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(†©æö8ñ¸‘åÌ/H¹	RMAJORZ
+CODE_SMELL
+Zsquid:S16591"&Declare "basicPay" on a separate line.(…ÉÊ8ñ¸‘åÌ/H¿	RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÊúª8ñ¸‘åÌ/H¶	RMAJORZ
+CODE_SMELL
+l
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¦ø©8ñ¸‘åÌ/H©	RMAJORZ
+CODE_SMELL
+Zsquid:S1659"&Declare "LastName" on a separate line.(û“ ©8ñ¸‘åÌ/Hº	RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡Á’üÿÿÿÿÿ8¸î£¤Ò/HÄ	RMAJORZ
+CODE_SMELL
+q
+squid:S106c"9Replace this use of System.out or System.err by a logger.(¶À¶Áùÿÿÿÿ8ñ¸‘åÌ/HÁ	RMAJORZ
+CODE_SMELL
+†squid:S001160"QRename this field "Salary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øªšè8ñ¸‘åÌ/H¾	RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿€™­ùÿÿÿÿ8ñ¸‘åÌ/H­	RMAJORZ
+CODE_SMELL
+l
+squid:S106g"9Replace this use of System.out or System.err by a logger.(‘‘»Ó8ñ¸‘åÌ/H»	RMAJORZ
+CODE_SMELL

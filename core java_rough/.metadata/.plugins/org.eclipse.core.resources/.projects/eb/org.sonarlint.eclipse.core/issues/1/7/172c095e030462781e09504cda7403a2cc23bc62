@@ -1,0 +1,16 @@
+
+fsquid:S4973	"9Use the "equals" method if value comparison was intended.(¬ÇýÌ8îºÁÉž0H·RMAJORZBUG
+fsquid:S4973"9Use the "equals" method if value comparison was intended.(—Ú›¼8îºÁÉž0H¸RMAJORZBUG
+ksquid:S4973"9Use the "equals" method if value comparison was intended.(ý©ž¬üÿÿÿÿ8îºÁÉž0H¹RMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñë‚¯øÿÿÿÿ8îºÁÉž0HºRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ý ¢èøÿÿÿÿ8îºÁÉž0H»RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÿÞ¦ûÿÿÿÿ8îºÁÉž0H¼RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜âëª8îºÁÉž0H½RMAJORZ
+CODE_SMELL

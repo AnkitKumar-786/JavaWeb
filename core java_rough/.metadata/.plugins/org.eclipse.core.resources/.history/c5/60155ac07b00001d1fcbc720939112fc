@@ -1,0 +1,20 @@
+package eb.com;
+
+public class Counterdemo {
+
+	int count = 10;
+		
+		Counterdemo()
+		{
+			count++;
+			System.out.println(count);
+		}
+		
+		public static void main(String[] args) {
+			
+		Counterdemo cd = new Counterdemo();
+		
+
+	}
+
+}

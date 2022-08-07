@@ -1,0 +1,35 @@
+
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(éÇ«8¥ÌŸ—Ì/H
+RMAJORZ
+CODE_SMELL
+q
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¡„Ôüÿÿÿÿ8¥ÌŸ—Ì/HŸ
+RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H 
+RMINORZ
+CODE_SMELL
+^squid:S1659"%Declare "accname" on a separate line.(½¿ö¦ûÿÿÿÿ8¥ÌŸ—Ì/H¡
+RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(»ï‘Õ8¥ÌŸ—Ì/H¢
+RMAJORZ
+CODE_SMELL
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ü…ÄÖúÿÿÿÿ8¥ÌŸ—Ì/H£
+RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ«½Œ8¥ÌŸ—Ì/H¤
+RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿéÀúÿÿÿÿ8¥ÌŸ—Ì/H¥
+RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(à‘Æ 8¥ÌŸ—Ì/H¦
+RMAJORZ
+CODE_SMELL

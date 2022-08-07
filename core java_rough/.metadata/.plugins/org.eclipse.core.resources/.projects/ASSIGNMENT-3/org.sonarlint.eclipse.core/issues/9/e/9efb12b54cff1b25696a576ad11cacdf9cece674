@@ -1,0 +1,131 @@
+
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Çøİ‘üÿÿÿÿ8±Â¾«Ğ/H®
+RMAJORZ
+CODE_SMELL
+l
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(°Æéç8±Â¾«Ğ/H¯
+RMAJORZ
+CODE_SMELL
+q
+squid:S106d"9Replace this use of System.out or System.err by a logger.(¹ıüøÿÿÿÿ8±Â¾«Ğ/H°
+RMAJORZ
+CODE_SMELL
+q
+squid:S106G"9Replace this use of System.out or System.err by a logger.(±½¸²ıÿÿÿÿ8±Â¾«Ğ/H±
+RMAJORZ
+CODE_SMELL
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(¡òï—8±Â¾«Ğ/H²
+RMAJORZ
+CODE_SMELL
+l
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ßÒøı8±Â¾«Ğ/H³
+RMAJORZ
+CODE_SMELL
+l
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ÅòŸˆ8±Â¾«Ğ/H´
+RMAJORZ
+CODE_SMELL
+asquid:S1659"(Declare "authorName" on a separate line.(ÍøŞ˜ÿÿÿÿÿ8±Â¾«Ğ/Hµ
+RMINORZ
+CODE_SMELL
+bsquid:S1125L")Remove the literal "false" boolean value.(„ã¥üÿÿÿÿ8±Â¾«Ğ/H¶
+RMINORZ
+CODE_SMELL
+l
+squid:S106`"9Replace this use of System.out or System.err by a logger.(ù‘«¥8±Â¾«Ğ/H·
+RMAJORZ
+CODE_SMELL
+`squid:S16023",Remove useless curly braces around statement(óÛ·È8±Â¾«Ğ/H¸
+RMINORZ
+CODE_SMELL
+l
+squid:S106b"9Replace this use of System.out or System.err by a logger.(àúó™8±Â¾«Ğ/H¹
+RMAJORZ
+CODE_SMELL
+l
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ú¸¸«8±Â¾«Ğ/Hº
+RMAJORZ
+CODE_SMELL
+l
+squid:S106}"9Replace this use of System.out or System.err by a logger.(‚õ½8±Â¾«Ğ/H»
+RMAJORZ
+CODE_SMELL
+asquid:S1659"(Declare "isbnNumber" on a separate line.(ÍøŞ˜ÿÿÿÿÿ8±Â¾«Ğ/H¼
+RMINORZ
+CODE_SMELL
+l
+squid:S106t"9Replace this use of System.out or System.err by a logger.(ŸÔÖ8±Â¾«Ğ/H½
+RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H¾
+RMINORZ
+CODE_SMELL
+q
+squid:S106x"9Replace this use of System.out or System.err by a logger.(±†ªáıÿÿÿÿ8±Â¾«Ğ/H¿
+RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(±†ªáıÿÿÿÿ8±Â¾«Ğ/HÀ
+RMAJORZ
+CODE_SMELL
+r
+squid:S106„"9Replace this use of System.out or System.err by a logger.(Çøİ‘üÿÿÿÿ8±Â¾«Ğ/HÁ
+RMAJORZ
+CODE_SMELL
+r
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(·ÿÅŸûÿÿÿÿ8±Â¾«Ğ/HÂ
+RMAJORZ
+CODE_SMELL
+l
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ßÒøı8±Â¾«Ğ/HÃ
+RMAJORZ
+CODE_SMELL
+r
+squid:S106€"9Replace this use of System.out or System.err by a logger.(›‰Ñıûÿÿÿÿ8±Â¾«Ğ/HÄ
+RMAJORZ
+CODE_SMELL
+bsquid:S1659")Declare "publication" on a separate line.(ÍøŞ˜ÿÿÿÿÿ8±Â¾«Ğ/HÅ
+RMINORZ
+CODE_SMELL
+q
+squid:S106f"9Replace this use of System.out or System.err by a logger.(ÿ¿Ş¾üÿÿÿÿ8±Â¾«Ğ/HÆ
+RMAJORZ
+CODE_SMELL
+m
+squid:S106†"9Replace this use of System.out or System.err by a logger.(Ú¸¸«8±Â¾«Ğ/HÇ
+RMAJORZ
+CODE_SMELL
+q
+squid:S106^"9Replace this use of System.out or System.err by a logger.(¹ÕÅ®üÿÿÿÿ8±Â¾«Ğ/HÈ
+RMAJORZ
+CODE_SMELL
+q
+squid:S106\"9Replace this use of System.out or System.err by a logger.(çƒ€óşÿÿÿÿ8±Â¾«Ğ/HÉ
+RMAJORZ
+CODE_SMELL
+l
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‹Ğƒß8±Â¾«Ğ/HÊ
+RMAJORZ
+CODE_SMELL
+q
+squid:S106A"9Replace this use of System.out or System.err by a logger.(†ä¸Öùÿÿÿÿ8±Â¾«Ğ/HË
+RMAJORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(›‰Ñıûÿÿÿÿ8±Â¾«Ğ/HÌ
+RMAJORZ
+CODE_SMELL
+l
+squid:S106X"9Replace this use of System.out or System.err by a logger.(ÀìŸ¢8±Â¾«Ğ/HÍ
+RMAJORZ
+CODE_SMELL
+m
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(‹Ğƒß8±Â¾«Ğ/HÎ
+RMAJORZ
+CODE_SMELL
+q
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ò•Æ†ıÿÿÿÿ8±Â¾«Ğ/HÏ
+RMAJORZ
+CODE_SMELL

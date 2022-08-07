@@ -1,0 +1,32 @@
+
+xsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ø­ª«Ğ/HĞRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(çò¤øÿÿÿÿ8ø­ª«Ğ/HÑRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ¸’Ìüÿÿÿÿ8ø­ª«Ğ/HÒRMAJORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(‹„8ø­ª«Ğ/HÓRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ø­ª«Ğ/HÔRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÎş´ûÿÿÿÿ8ø­ª«Ğ/HÕRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HÖRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(€‡Ú‡8ø­ª«Ğ/H×RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ø­ª«Ğ/HØRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä«8ø­ª«Ğ/HÙRMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(İªŒ¤8ø­ª«Ğ/HÚRMAJORZ
+CODE_SMELL

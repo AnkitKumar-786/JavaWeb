@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\java classroom notes\WORKSPACE\core java_rough\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2771645266.index
+3505892448.index
+176401590.index
+2971854289.index
+409959963.index
+3967898051.index
+3976088923.index

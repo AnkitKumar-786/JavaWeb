@@ -1,0 +1,15 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ô½¦øÿÿÿÿ8§ÂªË0H¡RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°ñ¾Ë0H¢RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H£RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ÌÓ†üÿÿÿÿ8§ÂªË0H¤RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(çë–½ÿÿÿÿÿ8Ù¼ÂË0H¥RMAJORZ
+CODE_SMELL
